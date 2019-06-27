@@ -1,1 +1,3 @@
-# SQL_project
+# SQL Project
+
+Uses MySQL to query the SakilaDB
